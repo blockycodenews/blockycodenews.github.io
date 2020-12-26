@@ -1,8 +1,8 @@
 # Status of BlockyCode:
 
-All systems operational. - Homepage down **__intentionly__** due to new updates.
-
+&bull; All pages operational
 
 # Version:
 
-V 0.019
+&bull; 0.019
+
