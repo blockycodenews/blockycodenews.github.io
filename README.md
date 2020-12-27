@@ -1,8 +1,10 @@
-# Status of BlockyCode:
+# Welcome to BlockyCode News!
+
+## Status of BlockyCode:
 
 &bull; All pages operational
 
-# Version:
+## Version:
 
 &bull; 0.019
 
